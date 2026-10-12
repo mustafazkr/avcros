@@ -4,7 +4,7 @@ Last updated: 2026-10-07
 
 ## What this is
 
-Olkvaj is a football analytics platform for analysts. It provides:
+Avcros is a football analytics platform for analysts. It provides:
 
 1. **Match reports** — detailed match data including shot maps, xG flow,
    radar comparisons, lineups, substitutions, formations, and annotations.
